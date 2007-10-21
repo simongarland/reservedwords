@@ -1,10 +1,12 @@
 acos
 asin
+asize
 asof
 assert
 atan
 attr
 boolean
+bsize
 byte
 ceiling
 char
@@ -17,6 +19,7 @@ date
 datetime
 delete
 deltas
+depth
 desc
 differ
 distinct
@@ -33,6 +36,7 @@ fkeys
 flip
 float
 floor
+from
 getenv
 group
 gtime
@@ -41,6 +45,7 @@ hcount
 hdel
 hopen
 hsym
+http
 iasc
 idesc
 insert
@@ -64,6 +69,7 @@ mmax
 mmin
 month
 msum
+nbbo
 next
 null
 over
@@ -72,6 +78,8 @@ peach
 plist
 prds
 prev
+price
+quote
 rand
 rank
 ratios
@@ -102,6 +110,7 @@ symbol
 system
 tables
 time
+trade
 trim
 type
 ungroup
