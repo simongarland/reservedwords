@@ -1,5 +1,4 @@
 acos
-alltables
 asin
 asize
 asof
@@ -11,8 +10,6 @@ bsize
 byte
 ceiling
 char
-clear
-colour
 cols
 count
 cross
@@ -24,7 +21,6 @@ depth
 desc
 differ
 distinct
-dotzs
 each
 enlist
 eval
@@ -71,7 +67,6 @@ mmin
 month
 msum
 nbbo
-newtable
 next
 null
 over
@@ -90,9 +85,7 @@ read0
 read1
 real
 reciprocal
-release
 reverse
-ripcnstr
 rload
 rotate
 rsave
@@ -118,7 +111,6 @@ trim
 type
 ungroup
 union
-unshow
 update
 upper
 upsert

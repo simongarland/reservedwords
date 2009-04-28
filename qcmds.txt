@@ -3,7 +3,6 @@ acos
 aj
 aj0
 all
-alltables
 and
 any
 asc
@@ -14,15 +13,12 @@ atan
 attr
 avg
 avgs
-bg
 bin
 boolean
 bsize
 byte
 ceiling
 char
-clear
-colour
 cols
 cor
 cos
@@ -43,7 +39,6 @@ differ
 distinct
 div
 do
-dotzs
 each
 enlist
 eval
@@ -111,7 +106,6 @@ month
 msum
 nbbo
 neg
-newtable
 next
 not
 null
@@ -134,9 +128,7 @@ read0
 read1
 real
 reciprocal
-release
 reverse
-ripcnstr
 rload
 rotate
 rsave
@@ -172,7 +164,6 @@ type
 uj
 ungroup
 union
-unshow
 update
 upper
 upsert
@@ -188,7 +179,6 @@ while
 within
 wj
 wsum
-wtf
 xasc
 xbar
 xcol
