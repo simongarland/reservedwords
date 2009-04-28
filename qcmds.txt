@@ -1,16 +1,19 @@
+abs
 acos
 aj
+aj0
 all
+alltables
 and
 any
 asc
 asin
 asize
 asof
-assert
 atan
 attr
 avg
+avgs
 bg
 bin
 boolean
@@ -38,6 +41,7 @@ desc
 dev
 differ
 distinct
+div
 do
 dotzs
 each
@@ -107,6 +111,7 @@ month
 msum
 nbbo
 neg
+newtable
 next
 not
 null
@@ -141,6 +146,7 @@ scan
 second
 select
 set
+setenv
 short
 show
 signum
@@ -166,6 +172,7 @@ type
 uj
 ungroup
 union
+unshow
 update
 upper
 upsert
@@ -179,6 +186,7 @@ week
 where
 while
 within
+wj
 wsum
 wtf
 xasc
@@ -186,6 +194,7 @@ xbar
 xcol
 xcols
 xdesc
+xexp
 xgroup
 xkey
 xlog

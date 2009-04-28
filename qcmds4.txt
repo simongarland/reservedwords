@@ -1,10 +1,11 @@
 acos
+alltables
 asin
 asize
 asof
-assert
 atan
 attr
+avgs
 boolean
 bsize
 byte
@@ -70,6 +71,7 @@ mmin
 month
 msum
 nbbo
+newtable
 next
 null
 over
@@ -99,6 +101,7 @@ save
 scan
 second
 select
+setenv
 short
 show
 signum
@@ -115,6 +118,7 @@ trim
 type
 ungroup
 union
+unshow
 update
 upper
 upsert
@@ -132,6 +136,7 @@ xbar
 xcol
 xcols
 xdesc
+xexp
 xgroup
 xkey
 xlog
