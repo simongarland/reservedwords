@@ -40,6 +40,7 @@ distinct
 div
 do
 each
+ej
 enlist
 eval
 except
@@ -157,6 +158,8 @@ tables
 tan
 til
 time
+timespan
+timestamp
 trade
 trim
 txf
@@ -167,6 +170,7 @@ union
 update
 upper
 upsert
+uu
 value
 var
 view

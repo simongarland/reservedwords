@@ -106,6 +106,8 @@ symbol
 system
 tables
 time
+timespan
+timestamp
 trade
 trim
 type
