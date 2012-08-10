@@ -16,6 +16,7 @@ avgs
 bin
 boolean
 bsize
+by
 byte
 ceiling
 char
@@ -59,6 +60,7 @@ get
 getenv
 group
 gtime
+guid
 hclose
 hcount
 hdel
@@ -115,11 +117,11 @@ over
 parse
 peach
 pj
-plist
 prd
 prds
 prev
 price
+prior
 quote
 rand
 rank
@@ -162,7 +164,6 @@ timespan
 timestamp
 trade
 trim
-txf
 type
 uj
 ungroup
@@ -182,7 +183,9 @@ where
 while
 within
 wj
+wj1
 wsum
+ww
 xasc
 xbar
 xcol

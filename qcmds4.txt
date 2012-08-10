@@ -37,6 +37,7 @@ from
 getenv
 group
 gtime
+guid
 hclose
 hcount
 hdel
@@ -72,10 +73,10 @@ null
 over
 parse
 peach
-plist
 prds
 prev
 price
+prior
 quote
 rand
 rank
