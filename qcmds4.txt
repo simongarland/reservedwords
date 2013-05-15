@@ -5,6 +5,7 @@ asof
 atan
 attr
 avgs
+binr
 boolean
 bsize
 byte
