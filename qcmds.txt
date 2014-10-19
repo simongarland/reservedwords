@@ -134,6 +134,7 @@ read0
 read1
 real
 reciprocal
+reval
 reverse
 rload
 rotate
