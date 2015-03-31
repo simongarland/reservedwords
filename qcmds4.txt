@@ -88,7 +88,6 @@ read0
 read1
 real
 reciprocal
-reval
 reverse
 rload
 rotate
@@ -96,6 +95,8 @@ rsave
 rtrim
 save
 scan
+scov
+sdev
 second
 select
 setenv
@@ -106,6 +107,7 @@ sqrt
 string
 sublist
 sums
+svar
 symbol
 system
 tables

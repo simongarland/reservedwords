@@ -134,7 +134,6 @@ read0
 read1
 real
 reciprocal
-reval
 reverse
 rload
 rotate
@@ -142,6 +141,8 @@ rsave
 rtrim
 save
 scan
+scov
+sdev
 second
 select
 set
@@ -158,6 +159,7 @@ sublist
 sum
 sums
 sv
+svar
 symbol
 system
 tables
